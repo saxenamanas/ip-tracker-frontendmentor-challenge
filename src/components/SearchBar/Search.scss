@@ -1,0 +1,25 @@
+$veryDarkGray: hsl(0, 0%, 17%);
+
+input{
+    border: none;
+    border-top-left-radius: 5px;
+    border-bottom-left-radius: 5px;
+    outline: none;
+    padding: 10px 20px;
+    font-size: 20px;
+    width: 100%;
+}
+
+.search-btn{
+    background-color: $veryDarkGray;
+    width: 60px;
+    height: 45px;
+    border-top-right-radius: 5px;
+    border-bottom-right-radius: 5px;
+    cursor: pointer;
+}
+
+
+.search-container{
+    width: 100%;
+}

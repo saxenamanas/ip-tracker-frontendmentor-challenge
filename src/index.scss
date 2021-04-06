@@ -1,0 +1,38 @@
+@import url('https://fonts.googleapis.com/css2?family=Rubik:wght@400;500;700&display=swap');
+
+body{
+    overflow-x: hidden;
+    padding: 0px;
+    margin: 0px;
+    font-family: 'Rubik';
+    font-size: 18px;
+    font-weight: 400;
+    color: white;
+}
+
+
+.container{
+    max-width: 500px;
+    margin: 0px auto;
+    padding: 20px 40px;
+    width: 100%;
+}
+
+.fs-md{
+    font-size: 25px;
+}
+
+.fw-500{
+    font-weight: 500;
+}
+
+.fw-700{
+    font-weight: 700;
+}
+
+.flex{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+}
